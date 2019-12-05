@@ -1,5 +1,9 @@
 # laravel-debuger
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/huangdijia/laravel-debuger.svg?style=flat-square)](https://packagist.org/packages/huangdijia/laravel-debuger)
+[![Total Downloads](https://img.shields.io/packagist/dt/huangdijia/laravel-debuger.svg?style=flat-square)](https://packagist.org/packages/huangdijia/laravel-debuger)
+[![GitHub license](https://img.shields.io/github/license/huangdijia/laravel-debuger)](https://github.com/huangdijia/laravel-debuger)
+
 ## Installation
 
 ~~~bash
@@ -57,4 +61,4 @@ echo debug('begin','end','m').'kb';
 
 ## 感谢
 
-https://www.kancloud.cn/manual/thinkphp5_1/354097
+[性能调试](https://www.kancloud.cn/manual/thinkphp5_1/354097)
